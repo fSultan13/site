@@ -1,0 +1,124 @@
+body {
+   background-color: #131313; 
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title {
+    margin: 35px 45px;
+    position: absolute;
+}
+.name {
+    color: #FFF;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 140%;
+    position:absolute;
+}
+.menu {
+    box-sizing: border-box;
+    margin-left: 2057px;
+    width: 413px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+.menu1 {
+    color: #FFF;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%;
+    margin-right: 37px;
+}
+.menu2 {
+    width: 133px;
+    height: 44px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    border: 1px solid #C4C4C4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text_m {
+    color: #FFF;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 180%;
+    border: 2px solid black;
+}
+.inf {
+    position: absolute;
+    width: 649px;
+    height: 395.456px;
+    margin-top: 404px;
+    margin-left: 99px;
+    flex-shrink: 0;
+}
+.title_inf {
+    color: #FFF;
+    font-size: 69px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+.text {
+    margin-top:72px;
+    color: #FFF;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%;
+}
+.but {
+    position: absolute;
+    margin-top: 865px;
+    margin-left: 99px;
+    width: 175.318px;
+    height: 58px;
+    flex-shrink: 0;
+    width: 175.318px;
+    height: 58px;
+    flex-shrink: 0;
+    border-radius: 100px;
+    background: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text_b {
+    color: #131313;
+    font-size: 16px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 180%;
+}
+.rect_round {
+    position: absolute;
+    margin-top: 376px;
+    margin-left: 1401px;
+    width: 1159px;
+    height: 1064px;
+    flex-shrink: 0;
+    border-radius: 254px 0px 0px 0px;
+    background: #1E1E1E;
+}
+.img {
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 1664px;
+}
